@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rinat_Kasymov_hw_3.1</string>
+    <string name="message">Message</string>
+    <string name="theme">Theme</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="send">SEND</string>
+    <string name="next">NEXT</string>
+    <string name="next2">NEXT</string>
+</resources>
